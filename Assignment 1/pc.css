@@ -23,6 +23,7 @@ h3{
 
 head{
     color: rgb(222, 60, 108);
+    display: inline;
 }
 
 ul {
@@ -109,3 +110,7 @@ h4{
     
 }
 
+
+#wrapper{
+    text-align: center;
+}
